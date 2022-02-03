@@ -23,10 +23,14 @@
 .sidebar {
   background-color: var(--color-grey-dark-1);
   flex: 0 0 18%; //* grow shrink and flex-basis. Used to set width of a container
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .hotel-view {
   background-color: #fff;
   background-color: orangered;
+  height: 80rem;
   flex: 1; //* grow (sub-part of above specified property)
 }
