@@ -1,4 +1,4 @@
-# Natours
+# Trillo
 
 ![Home Screen](/screenshots/home.png?raw=true)
 
