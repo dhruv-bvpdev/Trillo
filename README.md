@@ -4,7 +4,7 @@
 
 ### Live Deployment
 
-https://dhruv-bvpdev.github.io/Trillo/
+https://ttrillo.netlify.app/
 
 ### Note on Issues
 
